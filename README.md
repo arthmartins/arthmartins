@@ -1,5 +1,5 @@
 # 💫 Welcome to my GitHub!:
-I'm currently in 5th semester of Computer Science<br><br>Contact me:<br>arthur.martins@uel.br
+I'm currently in 5th semester of Computer Science
 
 
 # 💻 Tech Stack:
