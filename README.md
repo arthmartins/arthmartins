@@ -1,5 +1,5 @@
 # 💫 Welcome to my GitHub!:
-I'm currently in 5th semester of Computer Science
+I'm currently in 8th semester of Computer Science
 
 
 # 💻 Tech Stack:
